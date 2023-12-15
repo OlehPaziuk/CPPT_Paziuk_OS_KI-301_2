@@ -1,0 +1,15 @@
+       A       
+      AAA      
+     AAAAA     
+    AAAAAAA    
+   AAAAAAAAA   
+  AAAAAAAAAAA  
+ AAAAAAAAAAAAA 
+AAAAAAAAAAAAAAA
+ AAAAAAAAAAAAA 
+  AAAAAAAAAAA  
+   AAAAAAAAA   
+    AAAAAAA    
+     AAAAA     
+      AAA      
+       A       
